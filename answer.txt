@@ -1,0 +1,5 @@
+git config --global user.email "cnapotential@gmail.com"
+git config --global user.name "Anh Cao"
+git config --global user.name "PW-AnhCao"
+git config user.name "PW-AnhCao"
+git config user.name "PW-AnhCao"
