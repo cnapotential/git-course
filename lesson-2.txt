@@ -1,0 +1,4 @@
+git init : khoi tao thu muc duoc quan ly boi GIT
+git add <file name>: them file vao vung staging
+git add .: them toan bo file vao vung staging
+git commit-m "message" : cau lenh dung de commit ten vao file dc thay doi
